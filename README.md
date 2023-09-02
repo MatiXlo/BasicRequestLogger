@@ -31,5 +31,3 @@ Type 'exit' to finish logging requests.
 Note: You can find all the logged details in the log.txt file.
 
 Happy logging! 🌐
-
-GitHub Repository: [Link to GitHub Repository]
